@@ -14,7 +14,7 @@ body{
 }
 
 .bg {
-    background: url('Trouwfoto.jpg') no-repeat center center/cover;
+    background: url('/Users/wutu/Desktop/JavascriptProjecten/fotos/Trouwfoto.jpg') no-repeat center center/cover;
     position: absolute;
     top: -30;
     left: -30;
